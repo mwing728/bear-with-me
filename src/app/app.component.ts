@@ -12,20 +12,18 @@ import  {ButtonOverviewExample} from "./button-component"
 })
 export class AppComponent {
   sad_words: string[] =[
-    "Why don't you love me?",
-    "You hate me...",
-    "You don't care for me",
-    "You still hate me",
-    "My life is ruined",
-    "How can you be so cruel :("
+    "WHY WOULD YOU SAY THATT :(",
+    "BUT I DOOO... :((",
+    "왜 waeeee",
+    "You hurt my feelings... :(",
+    "How can I not love you"
   ]
   happy_words: string[] = [
-    "YAYYYY",
-    "I LOVE YOU",
-    "Thanks for loving me :))))",
-    "You DO care about me :)",
-    "I am happy!",
-    "EXCITING"
+    "OF COURSE I DOOO",
+    "YES, IM SHOREE",
+    "YES, REALLLYYY",
+    "YOU SO SILLYYY",
+    "I LOVE YOU TO NEPTUNE AND BACK!!"
   ]
   title = 'My Love';
   message = "HELLO, MY LOVE"
